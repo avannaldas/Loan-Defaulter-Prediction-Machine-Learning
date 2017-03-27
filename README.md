@@ -13,3 +13,4 @@ In this challenge, you will help this bank by predicting the probability that a 
 
 The problem was hosted for [Machine Learning Challenge on Hacker Earth](https://www.hackerearth.com/problem/machine-learning/bank-fears-loanliness/). You can download the dataset from the challenge page or the same dataset direct link [here](https://he-s3.s3.amazonaws.com/media/hackathon/machine-learning-challenge-one/bank-fears-loanliness/898ce544-0-MLChallenge_1Datac63af4e.zip)
 
+The code achieves approximately 97.6% accuracy in predictions
