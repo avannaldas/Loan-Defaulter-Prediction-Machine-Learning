@@ -11,6 +11,5 @@ This bank uses a pool of investors to sanction their loans. For example: If any 
 
 In this challenge, you will help this bank by predicting the probability that a member will default.
 
-[Dataset on HackerEarth](https://he-s3.s3.amazonaws.com/media/hackathon/machine-learning-challenge-one/bank-fears-loanliness/898ce544-0-MLChallenge_1Datac63af4e.zip)
+The problem was hosted for [Machine Learning Challenge on Hacker Earth](https://www.hackerearth.com/problem/machine-learning/bank-fears-loanliness/). You can download the dataset from the challenge page or the same dataset direct link [here](https://he-s3.s3.amazonaws.com/media/hackathon/machine-learning-challenge-one/bank-fears-loanliness/898ce544-0-MLChallenge_1Datac63af4e.zip)
 
-Based on problem that was a part of [Machine Learning Challenge on Hacker Earth](https://www.hackerearth.com/problem/machine-learning/bank-fears-loanliness/)
