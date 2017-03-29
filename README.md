@@ -10,6 +10,8 @@ I know, beyond just accuracy there must be better ways of doing things. I'm a be
 
 ## Problem Statement
 
+### Bank Fears Loanliness
+
 The Bank Indessa has not done well in last 3 quarters. Their NPAs (Non Performing Assets) have reached all time high. It is starting to lose confidence of its investors. As a result, it’s stock has fallen by 20% in the previous quarter alone.
 
 After careful analysis, it was found that the majority of NPA was contributed by loan defaulters. With the messy data collected over all the years, this bank has decided to use machine learning to figure out a way to find these defaulters and devise a plan to reduce them.
